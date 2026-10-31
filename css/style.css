@@ -254,7 +254,7 @@
 
 /*when changing for mobile*/
 
-@media (max-width:768px) {
+@media (max-width:768px) { /*theres a different pixels for my laptop but i have used this as assignment guidelines */
     .site-header {
         flex-direction: column;
     }
@@ -287,10 +287,6 @@
 
     .article-1 {
         flex-direction: column;
-    }
-
-    .content-grid {
-        grid-template-columns: 1fr;
     }
 
     .project-gallery {
