@@ -254,7 +254,7 @@
 
 /*when changing for mobile*/
 
-@media (max-width:768px) { /*theres a different pixels for my laptop but i have used this as assignment guidelines */
+@media (max-width:768px) { /*theres a different pixel for my laptop but I have used this as assignment guidelines */
     .site-header {
         flex-direction: column;
     }
